@@ -1,3 +1,4 @@
+alert("Welcome To The Tic_Tac_Toe Game.   This Game Devloped & Designed BY Mr. Dipayan Dey . Please Play The Game With Your Partner Or Friend.Thank You.Let's Start"); 
 let boxes = document.querySelectorAll(".box");
 let resetButton = document.querySelector("#resetButton");
 let newBtn = document.querySelector("#newBtn");
